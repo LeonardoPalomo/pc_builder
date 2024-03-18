@@ -1,0 +1,1 @@
+Personal project to check the best options to build a pc with a certain budget.

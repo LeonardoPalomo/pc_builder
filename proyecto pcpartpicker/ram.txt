@@ -1,0 +1,29 @@
+/*
+	marca: String
+	capacidad: String
+	tipo: DDR4 / DDR5
+	frecuencia: String
+*/
+
+{
+	ram: [
+		{
+			marca: Kingston,
+			capacidad: 16gb, 
+			tipo: DDR4,
+			frecuencia: 3200 MHz
+		},
+		{
+			marca:,
+			capacidad:, 
+			tipo:,
+			frecuencia: 
+		},
+		{
+			marca:,
+			capacidad:, 
+			tipo:,
+			frecuencia: 
+		},
+	]
+}

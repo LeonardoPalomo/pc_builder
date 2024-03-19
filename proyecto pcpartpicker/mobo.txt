@@ -1,0 +1,39 @@
+/*
+	marca: String
+	plataforma: Intel / AMD
+	chipset: String
+	socket: String
+	formato: micro ATX / ATX / mini ITX
+	memoria: DDR4 / DDR5
+*/
+
+
+
+{
+	mobo: [
+		{
+			marca: ASUS,
+			plataforma: AMD,
+			chipset: B450,
+			socket: AM4,
+			formato: ATX,
+			memoria: DDR4,
+		},
+		{
+			marca:,
+			plataforma:,
+			chipset:,
+			socket:,
+			formato:,
+			memoria:,
+		},
+		{
+			marca:,
+			plataforma:,
+			chipset:,
+			socket:,
+			formato:,
+			memoria:,
+		},
+	]
+}

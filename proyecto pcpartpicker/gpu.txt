@@ -1,0 +1,42 @@
+/*
+	marca: NVIDIA / AMD
+	fabricante: String
+	linea: String
+	modelo: String
+	memoria: String
+	tipo: GDDR5 / GDDR6
+	bus: PCI 3 x16 / PCI 4 x4 / PCI 4 x8 / PCI 4 x16
+*/
+
+{
+	gpu: [
+		{
+			marca: NVIDIA,
+			fabricante: ASUS,
+			linea: RTX,
+			modelo: 4090,
+			memoria: 8gb,
+			tipo: GDDR5,
+			bus: PCI 4 x16
+		},
+		{
+			marca:,
+			fabricante:,
+			linea:,
+			modelo:,
+			memoria:,
+			tipo:,
+			bus;
+		},
+		{
+			marca:,
+			fabricante:,
+			linea:,
+			modelo:,
+			memoria:,
+			tipo:,
+			bus;
+		},
+
+	]
+}

@@ -1,0 +1,16 @@
+/*
+	marca: String
+	capacidad: String
+	formato: 2.5'' / M.2 (2280)
+*/
+
+{
+	drive: [
+		{
+			marca: MSI,
+			capacidad: 1024gb,
+			formato: M.2,
+			Bus?: PCI 4
+		}
+	]
+}

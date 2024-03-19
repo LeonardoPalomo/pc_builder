@@ -1,0 +1,36 @@
+/*
+	marca: String
+	potencia: String
+	modular: boolean
+	certification?: String
+	size?: String
+
+*/
+
+{
+	psu: [
+		{
+			marca: Cougar,
+			potencia: 750w,
+			modular: true,
+			certificacion?: 80PLUS Gold,
+			size?: ATX,
+		},
+		{
+			marca:,
+			potencia:,
+			modular:,
+			certificacion?:,
+			size?:,
+		},
+		{
+			marca:,
+			potencia:,
+			modular:,
+			certificacion?:,
+			size?:,
+		},
+
+	
+	]
+}

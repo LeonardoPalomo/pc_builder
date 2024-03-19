@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+	margin-bottom: 50px;
+}
+
+.container{
+  display: flex;
+  align-items: left;
+  flex-direction: column;
+  padding-left: 100px;
+  gap: 20px;
+}
+
+.pcpart {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+
+}
+
+.avatar-placeholder {
+  width: 100px;
+  height: 100px;
+  background-color: grey;
+  margin-right: 20px;
+}

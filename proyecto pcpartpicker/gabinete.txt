@@ -1,0 +1,21 @@
+/*
+	marca: String
+	formato: ATX
+*/
+
+{
+	case: [
+		{
+			marca: Cougar,
+			formato: ATX
+		},
+		{
+			marca:,
+			formato: 
+		},
+		{
+			marca:,
+			formato: 
+		},
+	]
+}
